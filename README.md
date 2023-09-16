@@ -2,6 +2,6 @@
 
 ## A basic Calculator React-App
 
-- [Repo Link](https://github.com/r3workz/effourseaone-sept)
+- [Repo Link](https://github.com/r3workz/efffourseaone-sept)
 
-- [Deployed Link](https://r3workz.github.io/effourseaone-sept/)
+- [Deployed Link](https://r3workz.github.io/efffourseaone-sept/)
