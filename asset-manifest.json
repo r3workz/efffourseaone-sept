@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/efffourseaone-sept/static/css/main.f8d89c92.css",
+    "main.js": "/efffourseaone-sept/static/js/main.94d97e1a.js",
+    "index.html": "/efffourseaone-sept/index.html",
+    "main.f8d89c92.css.map": "/efffourseaone-sept/static/css/main.f8d89c92.css.map",
+    "main.94d97e1a.js.map": "/efffourseaone-sept/static/js/main.94d97e1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d89c92.css",
+    "static/js/main.94d97e1a.js"
+  ]
+}
